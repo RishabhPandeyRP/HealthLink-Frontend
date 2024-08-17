@@ -3,7 +3,7 @@ import apple from '../images/apple_fin.png';
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-100 p-6 bg-indigo-950 rounded-lg">
+    <footer className=" p-6 bg-indigo-950 rounded-lg">
       <div className="container mx-auto">
         <div className='bg-white'>
             <div className="border-b-0 pb-0 p-10 grid grid-cols-1 rounded-lg bg-white md:grid-cols-4 gap-8">
